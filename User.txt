@@ -1,0 +1,5 @@
+AD 456 AD@gmail.com Btech 112 
+ADI	112	ad@gmail.com	BTECH	223	
+SFG	222	sf@yahoo.com	BS	223	
+AYUSH	121	AY@GMAIL.COM	BCOM	333	
+AD	456	EDF	33	22	
